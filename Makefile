@@ -14,7 +14,7 @@ build-ios-arm64:
 	GOARCH=arm64 \
 	SDK=iphoneos \
 	CC=$(PWD)/clangwrap.sh \
-	$(GOBUILD) -o  $(BINARY_NAME)
+	$(GOBUILD) -o $(BINARY_NAME)
 
 clean:
 	rm $(BINARY_NAME)
