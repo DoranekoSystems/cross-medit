@@ -1,7 +1,6 @@
 package memory
 
 import (
-	"C"
 	"bufio"
 	"bytes"
 	"errors"

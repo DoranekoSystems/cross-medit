@@ -6,6 +6,12 @@ Cross Platform memory analysis tool, inspired by apk-medit.
 
 # Usage
 
+## Windows
+
+```sh
+medit.exe
+```
+
 ## iOS
 
 Jailbreaking of iphone is required.  

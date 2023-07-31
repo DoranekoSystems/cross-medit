@@ -1,3 +1,5 @@
+// +build darwin
+
 package memory
 
 // #include "../../native/native_darwin.h"
