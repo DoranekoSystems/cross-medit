@@ -1,6 +1,7 @@
 # cross-medit
 
-Cross Platform memory analysis tool, inspired by apk-medit.
+Cross-platform memory analysis tool. The original is [apk-medit](https://github.com/aktsk/apk-medit).  
+This tool is an extension of [apk-medit](https://github.com/aktsk/apk-medit), with some added functionalities.
 
 <img width="600" alt="screenshot" src="screenshots/screenshot.png">
 
